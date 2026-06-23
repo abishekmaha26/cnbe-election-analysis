@@ -34,11 +34,6 @@ cnbe-election-analysis/
 ├── scripts/
 │   └── generate_ml_report.py         # Standalone PDF report compiler (ReportLab)
 │
-├── reports/
-│   └── ml_analysis_report.pdf        # Executive summary PDF (generated output)
-│
-├── requirements.txt                  # Python dependencies
-├── .gitignore                        # Git ignore rules
 └── README.md                         # This file
 ```
 
