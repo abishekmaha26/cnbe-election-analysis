@@ -207,17 +207,11 @@ The **model ranking and overall conclusions are stable** across all runs.
 
 ---
 
-## 📜 License
 
-This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
 ## 👤 Author
 
 **Abishek** — Data Analyst  
-Freelance Analytics · [Upwork](https://upwork.com) · [Fiverr](https://fiverr.com)
-
----
-
-*Built for CNBE News Channel as part of the 2024 General Election Exit Poll project.*
+Freelance Analytics 
